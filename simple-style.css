@@ -1,0 +1,29 @@
+body {
+    font-family: 'Raleway' sans-serif;
+}
+
+.record {
+    margin: 3px 10px;
+}
+
+.record h3 {
+    margin-top: 2px;
+}
+
+.news {
+    border: 1px solid blue;
+    background-color: #b0afff;
+    padding: 5px 16px;
+}
+
+.article {
+    border: 1px solid #2b2b2b;
+    background-color: #cbcbcb;
+    padding: 5px 16px;
+}
+
+.discount {
+    border: 1px solid #ff8a01;
+    background-color: #ffe69c;
+    padding: 5px 16px;
+}
